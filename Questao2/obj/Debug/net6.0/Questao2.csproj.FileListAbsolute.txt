@@ -1,0 +1,17 @@
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Workspace\Projetos\GFT\Teste-Nivelamento-Desenvolvedor-CSharp-API\Questao2\obj\Debug\net6.0\ref\Questao2.dll
